@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FMWK-cocoapods.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>SLFMWK.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SLFMWKshell.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2C0A802D1F02300700FE9CC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C0A80521F02347B00FE9CC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C0A80641F0236E500FE9CC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C0A80951F023FEF00FE9CC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

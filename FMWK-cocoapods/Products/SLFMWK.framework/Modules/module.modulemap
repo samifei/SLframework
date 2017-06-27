@@ -1,0 +1,6 @@
+framework module SLFMWK {
+  umbrella header "SLFMWK.h"
+
+  export *
+  module * { export * }
+}
